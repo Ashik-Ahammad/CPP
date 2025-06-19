@@ -16,7 +16,7 @@ int main(){
     vec.push_back(65);
     vec.push_back(27);
     vec.push_back(98);
-    vec.pop_back();                              // Adding an element to the end of the vector
+    //vec.pop_back();                              // Adding an element to the end of the vector
     
 
     for (int i : vec)       // Range-based for loop to iterate through the vector, it actually iterates the values
